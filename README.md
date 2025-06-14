@@ -31,7 +31,7 @@ Sou desenvolvedora back-end com 2 anos de experiência, estudante dedicada na UF
 
 ## Entre em contato: 
 <p align="center">
-  <a href="https://linkedin.com/in/eduardo-santos-pires" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="www.linkedin.com/in/giovanna-guzzardi-707b6426b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="mailto:giovannaguzz.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
